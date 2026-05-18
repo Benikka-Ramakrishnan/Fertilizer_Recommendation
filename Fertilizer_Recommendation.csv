@@ -1,0 +1,31 @@
+Temparature,Humidity ,Moisture,Soil Type,Crop Type,Nitrogen,Phosphorous,Potassium,Fertilizer Name
+26,52,38,Sandy,Maize,37,0,0,Urea
+29,52,45,Loamy,Sugarcane,12,0,0,DAP
+34,65,62,Black,Cotton,7,9,4,14-35-14
+32,62,58,Red,Tobacco,37,0,0,Urea
+28,54,40,Clayey,Paddy,12,0,0,DAP
+25,50,35,Sandy,Barley,37,0,0,Urea
+30,60,50,Loamy,Wheat,7,9,4,14-35-14
+27,55,42,Black,Millets,12,0,0,DAP
+35,70,65,Red,Oil seeds,0,0,0,28-28
+33,63,55,Clayey,Pulses,0,9,4,17-17-17
+26,52,38,Sandy,Ground Nuts,37,0,0,Urea
+29,58,48,Loamy,Maize,0,0,0,20-20
+31,64,56,Black,Sugarcane,12,9,0,10-26-26
+28,54,41,Red,Cotton,37,0,0,Urea
+30,60,52,Clayey,Tobacco,7,9,4,14-35-14
+24,50,33,Sandy,Paddy,12,0,0,DAP
+27,56,44,Loamy,Barley,37,0,0,Urea
+34,68,62,Black,Wheat,0,0,0,28-28
+32,61,54,Red,Millets,0,9,4,17-17-17
+29,57,46,Clayey,Oil seeds,0,0,0,20-20
+26,53,39,Sandy,Pulses,12,9,0,10-26-26
+31,62,53,Loamy,Ground Nuts,37,0,0,Urea
+33,65,60,Black,Maize,7,9,4,14-35-14
+27,55,42,Red,Sugarcane,12,0,0,DAP
+30,59,50,Clayey,Cotton,37,0,0,Urea
+25,51,36,Sandy,Tobacco,0,0,0,28-28
+28,57,45,Loamy,Paddy,0,9,4,17-17-17
+35,69,64,Black,Barley,0,0,0,20-20
+32,63,57,Red,Wheat,12,9,0,10-26-26
+29,58,47,Clayey,Millets,37,0,0,Urea
